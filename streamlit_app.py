@@ -1,4 +1,3 @@
-streamlit==1.25.0 
 import streamlit
 
 streamlit.title('My Mom\'s New Healthy Diner')
